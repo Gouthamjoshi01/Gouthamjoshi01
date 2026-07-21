@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Goutham Joshi 👋</h1>
 
 <h3 align="center">⚡ Cybersecurity Researcher</h3>
+### ⚡ Aspiring Penetration Tester | Red Team Enthusiast
+
+Learning offensive security hands-on — currently building skills in network exploitation, 
+privilege escalation, and reporting. Documenting my journey as I go.
 <p align="center">Passionate cybersecurity enthusiast exploring offensive & defensive security</p>
 
 <p align="center">
