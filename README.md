@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Goutham Joshi 👋</h1>
 
 <h3 align="center">⚡ Aspiring Penetration Tester | Red Team Enthusiast</h3>
-<p align="center">Learning offensive and defensive security...currently building skills in network exploitation, privilege escalation, and reporting. Documenting my journey as I go.</p>
+<p align="center">Learning offensive and defensive security--currently building skills in network exploitation, privilege escalation, and reporting. Documenting my journey as I go.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/goutham-joshii">
