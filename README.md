@@ -24,12 +24,6 @@
 
 ---
 
-### 🏆 Trophies
-
-![trophy](https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/trophy.svg)
-
----
-
 ### 💻 Tech Stack
 
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
