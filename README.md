@@ -3,7 +3,7 @@
 <h3 align="left">⚡ Aspiring Penetration Tester | Red Team Enthusiast</h3>
 <p align="left">Learning offensive security hands-on — currently building skills in network exploitation, privilege escalation, and reporting. Documenting my journey as I go.</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/goutham-joshii">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
