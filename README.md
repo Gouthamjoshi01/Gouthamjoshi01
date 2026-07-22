@@ -4,7 +4,7 @@
 <p align="left">Learning offensive security hands-on — currently building skills in network exploitation, privilege escalation, and reporting. Documenting my journey as I go.</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/goutham-joshii">
+  <a href="https://www.linkedin.com/in/goutham-joshi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
