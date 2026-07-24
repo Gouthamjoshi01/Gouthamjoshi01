@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arch,c,vim,bash,linux,mysql,powershell" />
+    <img src="https://skillicons.dev/icons?i=arch,c,vim,bash,mysql,powershell" />
   </a>
 </p>
 
