@@ -16,8 +16,8 @@
 
 ### 🏆 Live Stats
 <p align="left">
-  <img src="https://tryhackme-badges.vercel.app/api/badge/YOUR_THM_USERNAME" />
-  <img src="https://www.hackthebox.eu/badge/image/YOUR_HTB_ID" />
+  <img src="https://tryhackme-badges.vercel.app/api/badge/gouthamjoshi" />
+  <img src="https://www.hackthebox.eu/badge/image/019d2fb9-72ca-72f9-b14e-8a39f4116893" />
 </p>
 
 ### 🎖️ GitHub Trophies
