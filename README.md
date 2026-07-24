@@ -14,10 +14,6 @@
   </a>
 </p>
 
-### 🎖️ GitHub Trophies
-<p align="left">
-  <img src="https://github-trophies.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=2&column=6" />
-</p>
 ---
 
 ![snake gif](https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -30,6 +26,10 @@
 - 🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
 - 💬 Ask me about: Bash scripting, Linux, GitHub workflows
 
+### 🎖️ GitHub Trophies
+<p align="left">
+  <img src="https://github-trophies.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=2&column=6" />
+</p>
 ---
 
 ### 💻 Tech Stack
