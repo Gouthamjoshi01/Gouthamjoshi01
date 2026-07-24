@@ -60,7 +60,7 @@
 
 ## 🏙️ 3D Contribution Calendar
 
-<img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <br><br>
 
