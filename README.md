@@ -14,16 +14,6 @@
   </a>
 </p>
 
-### 🏆 Live Stats
-<p align="left">
-  <img src="https://tryhackme-badges.vercel.app/api/badge/gouthamjoshi" />
-  <img src="https://www.hackthebox.eu/badge/image/019d2fb9-72ca-72f9-b14e-8a39f4116893" />
-</p>
-
-### 🎖️ GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
