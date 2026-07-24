@@ -69,13 +69,14 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br><br>
-
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,c,vim,bash,mysql,powershell" />
   </a>
 </p>
+
+<br><br>
 
 <!-- Random cybersecurity quote, refreshes on page load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
