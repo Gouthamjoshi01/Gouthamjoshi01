@@ -72,7 +72,7 @@
     <img src="https://skillicons.dev/icons?i=arch,c,vim,bash,mysql,powershell" />
   </a>
 </p>
-#
+##
 <br><br>
 
 <!-- Random cybersecurity quote, refreshes on page load -->
