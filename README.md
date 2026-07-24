@@ -17,8 +17,8 @@
 
 <br><br>
 
-<!-- Fun terminal-style intro -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2000&pause=1000&color=00FF9F&background=1A1A2E&center=true&width=500&height=60&lines=root%40kali%3A~%23+whoami;gouthamjoshi;root%40kali%3A~%23+status%3A+hacking+the+planet+%F0%9F%8C%90" />
+<!-- Fake terminal boot sequence -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2500&pause=1200&color=00FF9F&background=1A1A2E&center=true&width=600&height=90&lines=root%40kali%3A~%23+whoami;gouthamjoshi;root%40kali%3A~%23+nmap+-sV+-p-+target;Starting+Nmap...+22%2Ftcp+open++ssh;root%40kali%3A~%23+status%3A+hacking+the+planet+%F0%9F%8C%90" />
 
 <br>
 
@@ -50,17 +50,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamjoshi01&theme=dark&hide_border=true&background=1a1a2eff&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Gouthamjoshi01&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&count_private=true" width="49%" />
 
-<br>
-
-## 💻 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamjoshi01&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=00ff9f&text_color=ffffff" />
-
 <br><br>
 
 ## 📊 Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthamjoshi01&theme=react-dark&bg_color=1a1a2e&color=00ff9f&line=00ff9f&point=ffffff&hide_border=true" />
+
+<br><br>
+
+## 🏙️ 3D Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output-3d-contrib/profile-night-rainbow.svg" />
 
 <br><br>
 
