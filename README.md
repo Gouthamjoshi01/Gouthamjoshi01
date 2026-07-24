@@ -57,12 +57,6 @@
 
 <br><br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,c,vim,bash,mysql,powershell" />
-  </a>
-</p>
-
 ## 🛠️ Tech Stack
 
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -76,6 +70,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br><br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,c,vim,bash,mysql,powershell" />
+  </a>
+</p>
 
 <!-- Random cybersecurity quote, refreshes on page load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
