@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
-<br>
+<br><br><br>
 
 <div align="center">
 
