@@ -73,7 +73,7 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
 <!-- Random cybersecurity quote, refreshes on page load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
