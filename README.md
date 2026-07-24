@@ -1,8 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Goutham%20Joshi&fontSize=60&fontColor=00ff9f&fontAlignY=35&desc=Aspiring%20Penetration%20Tester%20%7C%20Red%20Team%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=Learning+offensive+security+hands-on...;Network+Exploitation+%7C+Privilege+Escalation;Documenting+one+box+at+a+time+%3AD" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=Learning+offensive+security+hands-on...;Network+Exploitation+%7C+Privilege+Escalation;Active+Directory+Attacks+%7C+Web+Exploitation;Documenting+one+box+at+a+time+%3AD" />
 
 <br>
 
@@ -18,26 +17,27 @@
 
 <br><br>
 
+<!-- Fun terminal-style intro -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2000&pause=1000&color=00FF9F&background=1A1A2E&center=true&width=500&height=60&lines=root%40kali%3A~%23+whoami;gouthamjoshi;root%40kali%3A~%23+status%3A+hacking+the+planet+%F0%9F%8C%90" />
+
+<br>
+
 <img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/Gouthamjoshi01/Gouthamjoshi01/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
 <br><br>
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
-🔭 Currently building: hands-on labs and writeups documenting my learning process
+🔭 Currently building: hands-on labs and writeups documenting HTB/THM boxes using Nmap, Burp Suite, and Metasploit
 <br>
 🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
 <br>
 💬 Ask me about: Bash scripting, Linux, GitHub workflows
+<br>
+⚡ Fun fact: I break things on purpose (with permission)
 
-</div>
-
-<div align="center">
-  
-<br><br><br>
+<br><br>
 
 ## 🎖️ GitHub Trophies
 
@@ -45,7 +45,26 @@
 
 <br><br>
 
-## 💻 Tech Stack
+## 🔥 GitHub Streak & Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamjoshi01&theme=dark&hide_border=true&background=1a1a2eff&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gouthamjoshi01&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&count_private=true" width="49%" />
+
+<br>
+
+## 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamjoshi01&layout=compact&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=00ff9f&text_color=ffffff" />
+
+<br><br>
+
+## 📊 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthamjoshi01&theme=react-dark&bg_color=1a1a2e&color=00ff9f&line=00ff9f&point=ffffff&hide_border=true" />
+
+<br><br>
+
+## 🛠️ Tech Stack
 
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -56,6 +75,11 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br><br>
+
+<!-- Random cybersecurity quote, refreshes on page load -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br><br>
 
