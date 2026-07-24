@@ -9,7 +9,7 @@
   <a href="https://tryhackme.com/p/gouthamjoshi">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
-  <a href="https://app.hackthebox.com/profile/Gouthamjoshi">
+  <a href="https://profile.hackthebox.com/profile/019d2fb9-72ca-72f9-b14e-8a39f4116893">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
