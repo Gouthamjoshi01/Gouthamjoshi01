@@ -22,7 +22,7 @@
 
 ### 🎖️ GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
