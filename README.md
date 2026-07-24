@@ -48,7 +48,6 @@
 ## 🔥 GitHub Streak & Stats
 
 <img src="https://streak-stats.demolab.com/?user=Gouthamjoshi01&theme=dark&hide_border=true&background=1a1a2eff&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="49%" />
-<img src="https://github-readme-stats-zeta-black-11.vercel.app/api?username=Gouthamjoshi01&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&count_private=true" width="49%" />
 
 <br><br>
 
