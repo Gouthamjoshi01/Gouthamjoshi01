@@ -79,7 +79,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Gouthamjoshi01&label=Profile%20Views&color=00ff9f&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=100&section=footer" />
