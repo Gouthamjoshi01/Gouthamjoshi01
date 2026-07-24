@@ -37,6 +37,7 @@
 
 <div align="center">
 
+
 ## 🎖️ GitHub Trophies
 
 <img src="https://github-trophies.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=2&column=6&margin-w=8&margin-h=8" />
