@@ -92,10 +92,9 @@ Kerberos & Lateral Movement
 
 <br><br>
 
-## 🔥 Streak &nbsp;&nbsp;|&nbsp;&nbsp; 📈 Stats
+## 🔥 Streak Stats
 
-<img src="https://streak-stats.demolab.com/?user=Gouthamjoshi01&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Gouthamjoshi01&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff" width="42%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Gouthamjoshi01&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f" width="60%" />
 
 <br><br>
 
