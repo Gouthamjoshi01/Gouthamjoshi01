@@ -1,18 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Goutham%20Joshi&fontSize=60&fontColor=00ff9f&fontAlignY=35&desc=Aspiring%20Penetration%20Tester%20%7C%20Red%20Team%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/goutham-joshi">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/gouthamjoshi">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</a>
-<a href="https://profile.hackthebox.com/profile/019d2fb9-72ca-72f9-b14e-8a39f4116893">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</a>
-
 <br><br>
 
 <!-- Fake terminal boot sequence -->
