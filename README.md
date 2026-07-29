@@ -27,18 +27,6 @@
 
 <br><br>
 
-## 👨‍💻 About Me
-
-🔭 Currently building: hands-on labs and writeups documenting HTB/THM boxes using Nmap, Burp Suite, and Metasploit
-<br>
-🌱 Currently learning: network exploitation, privilege escalation, Active Directory attacks
-<br>
-💬 Ask me about: Bash scripting, Linux, GitHub workflows
-<br>
-⚡ Fun fact: I break things on purpose (with permission)
-
-<br><br>
-
 ## 🎖️ GitHub Trophies
 
 <img src="https://github-trophies.vercel.app/?username=Gouthamjoshi01&theme=darkhub&no-frame=true&row=2&column=6&margin-w=8&margin-h=8" />
