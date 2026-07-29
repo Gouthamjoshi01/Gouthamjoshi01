@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Goutham%20Joshi&fontSize=60&fontColor=00ff9f&fontAlignY=35&desc=Aspiring%20Penetration%20Tester%20%7C%20Red%20Team%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=Learning+offensive+security+hands-on...;Network+Exploitation+%7C+Privilege+Escalation;Active+Directory+Attacks+%7C+Web+Exploitation;Documenting+one+box+at+a+time+%3AD" />
-
 <br>
 
 <a href="https://www.linkedin.com/in/goutham-joshi">
