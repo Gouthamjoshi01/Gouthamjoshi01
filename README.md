@@ -24,12 +24,6 @@
 
 <br><br>
 
-## 📊 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthamjoshi01&theme=react-dark&bg_color=1a1a2e&color=00ff9f&line=00ff9f&point=ffffff&hide_border=true" />
-
-<br><br>
-
 ## 🛠️ Tech Stack
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
